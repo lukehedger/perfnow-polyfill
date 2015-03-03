@@ -1,7 +1,7 @@
 {
   "name": "perfnow-polyfill",
   "main": "perfnow-polyfill.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "authors": [
     "Luke Hedger <luke.hedger@gmail.com>"
   ],
